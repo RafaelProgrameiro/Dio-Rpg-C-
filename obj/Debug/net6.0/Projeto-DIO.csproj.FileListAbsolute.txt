@@ -1,0 +1,15 @@
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.exe
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.deps.json
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.runtimeconfig.json
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.dll
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\bin\Debug\net6.0\Projeto-DIO.pdb
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.csproj.AssemblyReference.cache
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.AssemblyInfoInputs.cache
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.AssemblyInfo.cs
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.csproj.CoreCompileInputs.cache
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.dll
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\refint\Projeto-DIO.dll
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.pdb
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\Projeto-DIO.genruntimeconfig.cache
+C:\projetos\dio_unimed\C#-.Net\Projeto-DIO\obj\Debug\net6.0\ref\Projeto-DIO.dll
